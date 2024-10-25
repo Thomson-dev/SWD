@@ -1,5 +1,5 @@
 import React from "react";
-import dashboard from "../assets/dashboard.png";
+import dashboard from "../assets/Dashboard.png";
 
 const CTA = () => {
   return (

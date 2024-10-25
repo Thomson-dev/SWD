@@ -1,9 +1,7 @@
 import React from "react";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
-import { IoEyeOutline } from "react-icons/io5";
-import { MdOutlineEmail } from "react-icons/md";
-import message from "../assets/Group 146.svg";
+
 import { Link } from "react-router-dom";
 
 const VerifyOtp = () => {

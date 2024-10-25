@@ -1,13 +1,9 @@
 import React, { useState } from "react";
 
 import Navbar from "../components/Navbar";
-import CTA from "../components/CTA";
-import Review from "../components/Review";
-import Phone from "../components/Phone";
-import Booked from "../components/Booked";
+
 import Footer from "../components/Footer";
-import Hero from "../components/Hero";
-import Contact from "../components/Contact";
+
 import { IoEyeOutline } from "react-icons/io5";
 import { CgProfile } from "react-icons/cg";
 import { MdStorefront } from "react-icons/md";
