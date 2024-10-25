@@ -24,13 +24,13 @@ const Navbar = () => {
           <CiSearch className="text-3xl" />
 
           {links.map((link, index) => (
-            <a
+            <Link
               key={index}
-              href={link.href}
+              to={link.href}
               className="text-lg text-[#686868] nunito-regular "
             >
               {link.name}
-            </a>
+            </Link>
           ))}
         </div>
 
